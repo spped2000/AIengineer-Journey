@@ -3,7 +3,7 @@
     <a align="center" href="" target="_blank">
       <img
         width="850"
-        src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/my2.png"
+        src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/ai.png"
       >
     </a>
   </p>
