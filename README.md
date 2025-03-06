@@ -17,9 +17,23 @@ This repository contains resources, guides, and learning paths to help you becom
 - [Resources](#resources)
 - [Contributing](#contributing)
 
-## Getting Started
+## (1) Free Basic Courses (Kaggle)
 
-_Add your getting started information here_
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/kaggle-logo.png" alt="Kaggle Logo" width="300"/>
+</p>
+
+Kaggle offers excellent free courses that cover all the fundamental skills needed to begin your AI engineering journey:
+
+- **[Python](https://www.kaggle.com/learn/python)** - Essential programming language for AI
+- **[Pandas](https://www.kaggle.com/learn/pandas)** - Data manipulation and analysis
+- **[Data Visualization](https://www.kaggle.com/learn/data-visualization)** - Create insightful visual representations
+- **[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)** - Core ML concepts and techniques
+- **[Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)** - Handle missing values, categorical variables, etc.
+- **[Feature Engineering](https://www.kaggle.com/learn/feature-engineering)** - Improve model performance
+- **[Deep Learning](https://www.kaggle.com/learn/deep-learning)** - Neural networks fundamentals
+
+Each course includes hands-on exercises and can be completed in a few hours. These courses provide the foundation before specializing in areas like Computer Vision, NLP, or Reinforcement Learning.
 
 ## Learning Path
 
