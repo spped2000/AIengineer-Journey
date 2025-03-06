@@ -35,7 +35,18 @@ Zero to Hero: How to become an AI engineer and knowledge paths
 - **[Feature Engineering](https://www.kaggle.com/learn/feature-engineering)** - Improve model performance
 - **[Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)** - Neural networks fundamentals
 
+(2) DeepLearning.AI
+<p align="center">
+  <a href="https://www.deeplearning.ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/deeplearningai_logo.png" alt="DeepLearning.AI Logo" width="200"/>
+  </a>
+</p>
+DeepLearning.AI, ถูกสร้างโดย ปรมอาจารย์ Andrew Ng, มีตั้งแต่ Beginner ถึง advance มี jupyter notebook ให้ใช้ด้วย
 
+AI for Everyone - A non-technical introduction to AI for everyone
+Deep Learning Specialization - A comprehensive foundation in deep learning
+
+These courses provide in-depth knowledge and practical skills in neural networks, computer vision, NLP, and more. They combine theoretical concepts with hands-on projects to build a strong understanding of deep learning principles.
 ## Learning Path
 
 _Add your learning path information here_
