@@ -43,10 +43,9 @@ Zero to Hero: How to become an AI engineer and knowledge paths
 </p>
 DeepLearning.AI, ถูกสร้างโดย ปรมอาจารย์ Andrew Ng, มีตั้งแต่ Beginner ถึง advance มี jupyter notebook ให้ใช้ด้วย
 
-AI for Everyone - A non-technical introduction to AI for everyone
-Deep Learning Specialization - A comprehensive foundation in deep learning
+**[AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)**  - A non-technical introduction to AI for everyone
+**[DeepLearning.AI](https://www.deeplearning.ai/courses/deep-learning-specialization/)** - A comprehensive foundation in deep learning
 
-These courses provide in-depth knowledge and practical skills in neural networks, computer vision, NLP, and more. They combine theoretical concepts with hands-on projects to build a strong understanding of deep learning principles.
 ## Learning Path
 
 _Add your learning path information here_
