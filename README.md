@@ -35,7 +35,7 @@ Zero to Hero: How to become an AI engineer and knowledge paths
 - **[Feature Engineering](https://www.kaggle.com/learn/feature-engineering)** - Improve model performance
 - **[Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)** - Neural networks fundamentals
 
-(2) DeepLearning.AI
+## (2) DeepLearning.AI Free Courses
 <p align="center">
   <a href="https://www.deeplearning.ai/" target="_blank">
     <img src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/deeplearningai_logo.png" alt="DeepLearning.AI Logo" width="200"/>
