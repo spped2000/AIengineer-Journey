@@ -56,8 +56,10 @@ DeepLearning.AI, ถูกสร้างโดย ปรมอาจารย�
     <img src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/kaggle_logo.png" alt="Kaggle Logo" width="300"/>
   </a>
 </p>
+
 - **[Data Visualization Best Practices](https://www.kaggle.com/code/annastasy/your-guide-to-data-visualization)**
 - **[Netflix_Content_Analysis](https://www.kaggle.com/code/rameenrizwan13/netflix-content-analysis)**
+- 
 ## Resources
 
 _Add useful resources here_
