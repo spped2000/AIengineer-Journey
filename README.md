@@ -2,7 +2,7 @@
   <p>
     <a align="center" href="" target="_blank">
       <img
-        width="350"
+        width="300"
         src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/my2.png"
       >
     </a>
