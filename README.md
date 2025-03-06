@@ -21,7 +21,7 @@ Zero to Hero: How to become an AI engineer and knowledge paths
 
 <p align="center">
   <a href="https://www.kaggle.com/learn" target="_blank">
-    <img src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/kaggle-logo.png" alt="Kaggle Logo" width="300"/>
+    <img src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/kaggle_logo.png" alt="Kaggle Logo" width="300"/>
   </a>
 </p>
 
