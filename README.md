@@ -25,7 +25,7 @@ Zero to Hero: How to become an AI engineer and knowledge paths
   </a>
 </p>
 
-Kaggle offers excellent free courses that cover all the fundamental skills needed to begin your AI engineering journey:
+เริ่มจาก Basic ML ค่อยๆไต่ไป จนถึง Deep Learning เรียนจากการทำโปรเจคไม่ใช่แค่ทฤษฎี
 
 - **[Python](https://www.kaggle.com/learn/python)** - Essential programming language for AI
 - **[Pandas](https://www.kaggle.com/learn/pandas)** - Data manipulation and analysis
@@ -35,7 +35,6 @@ Kaggle offers excellent free courses that cover all the fundamental skills neede
 - **[Feature Engineering](https://www.kaggle.com/learn/feature-engineering)** - Improve model performance
 - **[Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)** - Neural networks fundamentals
 
-Each course includes hands-on exercises and can be completed in a few hours. These courses provide the foundation before specializing in areas like Computer Vision, NLP, or Reinforcement Learning.
 
 ## Learning Path
 
