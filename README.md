@@ -1,3 +1,14 @@
+<div align="center">
+  <p>
+    <a align="center" href="" target="_blank">
+      <img
+        width="850"
+        src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/my2.png"
+      >
+    </a>
+  </p>
+  <br>
+  
 # AIengineer-Journey
 
 Zero to Hero: How to become an AI engineer and knowledge paths
