@@ -1,13 +1,8 @@
-<div align="center">
-  <p>
-    <a align="center" href="" target="_blank">
-      <img
-        width="850"
-        src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/ai.png"
-      >
-    </a>
-  </p>
-  <br>
+<p align="center">
+  <a href="https://www.kaggle.com/learn" target="_blank">
+    <img src="https://raw.githubusercontent.com/spped2000/AIengineer-Journey/main/assets/ai.png" alt="Kaggle Logo" width="850"/>
+  </a>
+</p>
   
 # AIengineer-Journey
 
