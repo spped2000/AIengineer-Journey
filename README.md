@@ -65,11 +65,11 @@ DeepLearning.AI, ถูกสร้างโดย ปรมอาจารย�
 
 | **notebook** | **open in colab / kaggle ** | **videos** | **repository** |
 |:------------:|:-------------------------------------------------:|:---------------------------:|:----------------------:|
-| [Data Visualization Best Practices](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-yolov12-object-detection-model.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov12-object-detection-model.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-yolov12-object-detection-model.ipynb)  |  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=xEfh0IR8Fvo)(https://blog.roboflow.com/train-yolov12-model)  | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sunsmarterjie/yolov12)|
+| [Data Visualization Best Practices](https://www.kaggle.com/code/annastasy/your-guide-to-data-visualization) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov12-object-detection-model.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-yolov12-object-detection-model.ipynb)  |  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=xEfh0IR8Fvo)  | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sunsmarterjie/yolov12)|
 
-- **[Data Visualization Best Practices](https://www.kaggle.com/code/annastasy/your-guide-to-data-visualization)**
-- **[Netflix_Content_Analysis](https://www.kaggle.com/code/rameenrizwan13/netflix-content-analysis)**
-- 
+| [Netflix_Content_Analysis](https://www.kaggle.com/code/rameenrizwan13/netflix-content-analysis) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov12-object-detection-model.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/train-yolov12-object-detection-model.ipynb)  |  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=xEfh0IR8Fvo)  | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sunsmarterjie/yolov12)|
+
+
 ## Resources
 
 _Add useful resources here_
